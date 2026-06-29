@@ -1,0 +1,1 @@
+add_application(matmul_1accl matmul_1accl.c LABELS "klessydra_tests")

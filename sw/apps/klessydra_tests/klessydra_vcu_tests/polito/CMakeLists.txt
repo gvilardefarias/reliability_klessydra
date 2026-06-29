@@ -1,0 +1,5 @@
+#add_application(polito klessydra_matmul_3SPM_polito.c LABELS "klessydra_tests")
+add_application(polito polito_matmul_3SPM_shared.c LABELS "klessydra_tests")
+#add_application(matmul_pol polito_matmul_3SPM_shared.c LABELS "klessydra_tests")
+#add_application(matmul klessydra_matmul_3SPM_dedicated.c LABELS "klessydra_tests")
+#add_application(matmul_pol klessydra_matmul_3SPM_polito.c LABELS "klessydra_tests")

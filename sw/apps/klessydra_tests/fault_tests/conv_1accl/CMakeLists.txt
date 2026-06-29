@@ -1,0 +1,1 @@
+add_application(conv_1accl conv_1accl.c LABELS "klessydra_tests")

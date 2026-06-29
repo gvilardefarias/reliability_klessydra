@@ -1,0 +1,1 @@
+add_application(toggle_adhoc ad_hoc.c LABELS "klessydra_tests")
