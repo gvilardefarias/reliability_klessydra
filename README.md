@@ -1,5 +1,8 @@
-![DARE Logo](docs/imgs/dare_logo.svg)
-![TIRAMISU Logo](docs/imgs/TIRAMISU_logo.svg)
+<p align="center">
+	<img src="docs/imgs/dare_logo.svg" width="400px" />
+	<img style="float: right;" src="docs/imgs/TIRAMISU_logo.svg" width="400">
+</p>
+
 
 This work was partially supported by the TIRAMISU project under the EU Grant#101169378 — HORIZON-MSCA-2023-DN-01, and by the DARE SGA1 project, funded by the European High-Performance Computing Joint Undertaking (JU) under grant agreement No 101202459
 
